@@ -23,7 +23,7 @@ for i in range(num_k // 2 + 1):
     start += 1
     end -= 1
     while start < end and S[start] == 'R':
-        start += 1
+        start += 1 
         num_r -= 1
     while start < end and S[end] == 'R':
         end -= 1
