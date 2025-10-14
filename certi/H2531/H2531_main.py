@@ -1,5 +1,5 @@
 import sys
-from H2531 import init, takeTurn
+from certi.H2531.H2531 import init, takeTurn
 
 CMD_INIT = 100
 CMD_TAKETURN = 200
