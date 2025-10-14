@@ -1,5 +1,5 @@
 import sys
-from certi.H2506.solution_answer import init, sell, closeSale, discount, show
+from solution import init, sell, closeSale, discount, show
 
 CMD_INIT = 100
 CMD_SELL = 200
